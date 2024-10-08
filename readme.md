@@ -12,7 +12,4 @@ Hi, I'm Md Mafuz, a Data Scientist skilled in Python, R, SQL, and machine learni
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafuzfahad/)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mafuzfahad)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=mafuzfahad&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=25&hide_border=true">
-</p>
 
