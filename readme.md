@@ -10,7 +10,4 @@ Hi, I'm Md Mafuz, a Data Scientist skilled in Python, R, SQL, and machine learni
 
 **Reach out to me at →**
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-mahfuzfahad/)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MdMahfuz1999)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
-
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafuzfahad/)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.linkedin.com/in/mahfuzfahad)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
